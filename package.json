@@ -1,0 +1,28 @@
+{
+  "name": "mi-proyecto",
+  "version": "1.0.0",
+  "description": "Un proyecto de ejemplo con Node.js",
+  "main": "'Reality Rush'/meomundep.js",  // Este campo no cambia
+  "scripts": {
+    "start": "cd 'Reality Rush' node meomundep.js"  // Este campo tampoco cambia
+  },
+  "engines": {
+    "node": "22.11.0"
+  },
+  "dependencies": {
+    "user-agents": "*",
+    "cloudscraper": "*",
+    "axios": "*",
+    "colors": "*",
+    "p-limit": "*",
+    "https-proxy-agent": "*",
+    "socks-proxy-agent": "*",
+    "crypto": "*",
+    "ws": "*",
+    "qs": "*"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "Tu Nombre",
+  "license": "ISC"
+}
