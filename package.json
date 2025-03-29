@@ -4,7 +4,7 @@
   "description": "Un proyecto de ejemplo con Node.js",
   "main": "'Reality Rush'/meomundep.js", 
   "scripts": {
-    "start": "cd 'Reality Rush' node meomundep.js" 
+    "start": "node meomundep.js" 
   },
   "engines": {
     "node": "22.11.0"
