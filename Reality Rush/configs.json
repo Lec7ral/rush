@@ -16,7 +16,7 @@
   "autoArrange": true,
   "claimTokens": false,
   "autoMergeBuilding": false,
-  "autoUpgradeBuildings": true,
+  "autoUpgradeBuildings": false,
   "stakingPrize": {
     "30 USDT – Instant Crypto Boost": 0,
     "5 TON – Boost your journey": 1,
